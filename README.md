@@ -4,7 +4,7 @@ Detect common tomato leaf diseases using a deep learning model built with **Tens
 
 This tool helps farmers, students, and researchers identify tomato plant health conditions from leaf images.
 
-The compllete code is provided in [here](https://github.com/imdwipayana/Tomato_Disease_Detector_Deployed/blob/main/tomato_disease_detection20000.ipynb) and the source of data is [here].(https://www.kaggle.com/datasets/ashishmotwani/tomato).
+The compllete code is provided in [here](https://github.com/imdwipayana/Tomato_Disease_Detector_Deployed/blob/main/tomato_disease_detection20000.ipynb) and the source of data is [here](https://www.kaggle.com/datasets/ashishmotwani/tomato).
 
 ---
 
