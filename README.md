@@ -58,7 +58,7 @@ You can test the app with your own tomato leaf photo, or use sample images from 
 ### 👨‍💻 Author
 
 Developed by **Eka Dwipayana**  
-🔗 [Run the model on Hugging Face](https://huggingface.co/spaces/imdwipayana/tomato-disease-detector)
+🔗 [Detect the tomato diseases on Hugging Face](https://huggingface.co/spaces/imdwipayana/tomato-disease-detector)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/eka-dwipayana/)
 
