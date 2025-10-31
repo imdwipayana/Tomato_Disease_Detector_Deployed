@@ -51,7 +51,7 @@ Always consult an expert before applying treatments to crops.
 
 ## 📸 Example Images
 
-You can test the app with your own tomato leaf photo, or use sample images from the `examples/` folder.
+You can test the app with your own tomato leaf photo, or use sample images from the [`examples`](https://github.com/imdwipayana/Tomato_Disease_Detector_Deployed/tree/main/examples) folder.
 
 ---
 
